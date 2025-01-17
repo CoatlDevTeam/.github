@@ -47,7 +47,7 @@ Website: https://coatl.one
 
 Twitter: @CoatlOne
 
-Telegram: CoatlOne
+Telegram: Coatl_Consulting
 
 Email: developer@coatl.one
 
