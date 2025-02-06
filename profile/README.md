@@ -25,17 +25,7 @@ This repository hosts the public-facing smart contracts that underpin our crypto
 
 **_Getting Started_**
 
-To understand and interact with our smart contracts:
-**Clone the repository:**
-
-git clone https://github.com/CoatlDevTeam  
-
-Explore the documentation folder for detailed guidance.
-Review the contracts and raise issues or contribute enhancements as needed.
-
-**_Contributing_**
-
-We welcome contributions from the community to improve our platform. Please read our Contribution Guidelines for more details.
+To understand and interact with our smart contracts, feel free to navigate thru our projects.
 
 **_License_**
 
